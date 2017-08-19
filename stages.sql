@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 18, 2017 at 11:34 PM
+-- Generation Time: Aug 19, 2017 at 08:42 PM
 -- Server version: 10.1.25-MariaDB
 -- PHP Version: 5.6.31
 
@@ -40,7 +40,7 @@ CREATE TABLE `stages` (
 --
 
 INSERT INTO `stages` (`ID`, `Name`, `Is_Completed`, `Last_Modified`) VALUES
-(1, 'Stage 0', 0, '2017-08-18 21:06:28');
+(1, 'Stage 1', 0, '2017-08-18 21:06:28');
 
 --
 -- Indexes for dumped tables
